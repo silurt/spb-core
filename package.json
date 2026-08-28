@@ -30,9 +30,9 @@
   ],
   "author": "Simon Rothert <puresamari@gmail.com>",
   "bugs": {
-    "url": "https://github.com/puresamari/spb-core/issues"
+    "url": "https://github.com/silurt/spb-core/issues"
   },
-  "homepage": "https://github.com/puresamari/spb-core#readme",
+  "homepage": "https://github.com/silurt/spb-core#readme",
   "license": "Apache-2.0",
   "devDependencies": {
     "@types/glob": "^7.1.3",
